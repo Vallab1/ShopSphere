@@ -1,10 +1,10 @@
-# 🛍️ Nova Shop - Modern E-Commerce Platform
+# 🛍️ ShopSphere - Modern E-Commerce Platform
 
 <div align="center">
 
 **A cutting-edge, fully responsive e-commerce platform built with modern web technologies**
 
-[🌐 Live Demo](https://nova-shop8705.vercel.app/)
+[🌐 Live Demo](https://shopsphere.vercel.app/)
 
 </div>
 
@@ -107,7 +107,7 @@
 ## 📂 Project Structure
 
 ```
-Nova_Shop/
+ShopSphere/
 ├── public/                 # Static assets
 ├── src/
 │   ├── assets/            # Images, videos, animations
