@@ -107,7 +107,7 @@
 ## 📂 Project Structure
 
 ```
-Nova_Shop/
+ShopSphere/
 ├── public/                 # Static assets
 ├── src/
 │   ├── assets/            # Images, videos, animations
