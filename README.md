@@ -4,7 +4,7 @@
 
 **A cutting-edge, fully responsive e-commerce platform built with modern web technologies**
 
-[🌐 Live Demo](https://shopsphere.vercel.app/)
+[🌐 Live Demo](https://vallab1.github.io/ShopSphere/)
 
 </div>
 
